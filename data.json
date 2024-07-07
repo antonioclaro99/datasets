@@ -1,0 +1,11 @@
+[
+    {"alumno":"Pedro","nota":9.09,"ranking":10},
+    {"alumno":"Juan","nota":4,"ranking":150},
+    {"alumno":"María","nota":7.5,"ranking":50},
+    {"alumno":"Ana","nota":8.2,"ranking":30},
+    {"alumno":"Luis","nota":6.8,"ranking":75},
+    {"alumno":"Sofía","nota":9.5,"ranking":5},
+    {"alumno":"Carlos","nota":5.5,"ranking":120},
+    {"alumno":"Lucía","nota":8.9,"ranking":15},
+    {"alumno":"José","nota":7.2,"ranking":60}
+]
